@@ -14,3 +14,7 @@ This project explores different approaches to problem solving, including graph s
 - Compare the efficiency of different search strategies
 - Model the Blocksworld problem using CSP techniques
 - Extract patterns from generated states using data mining
+
+## Project Structure
+- src/ — main implementation (algorithms, models, solvers)
+- lib/ — external dependencies (not included)
